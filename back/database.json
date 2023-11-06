@@ -1,4 +1,14 @@
 {
-    "users": []
+  "users": [
+    {
+      "email": "j@mail.com",
+      "password": "1234",
+      "role": "utilisateur"
+    },
+    {
+      "email": "",
+      "password": "",
+      "role": "user"
+    }
+  ]
 }
-  
